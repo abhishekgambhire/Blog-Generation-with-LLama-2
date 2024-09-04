@@ -1,5 +1,6 @@
 # Blog-Generation-with-LLama-2
 
+
 his project provides a simple Streamlit application for generating blog content using the LLama 2 model. The application takes user inputs such as blog topic, number of words, and the target audience to generate a blog post.
 
 Features
